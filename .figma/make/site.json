@@ -1,0 +1,10 @@
+{
+  "description": "Create visually appealing and user-friendly applications with customizable features, designed for users seeking an engaging and efficient experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
